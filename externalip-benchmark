@@ -15,9 +15,7 @@ read -d '' urls << 'END'
 //ifconfig.me/
 //icanhazip.com/
 //ip.appspot.com/
-//curlmyip.com/
 //ident.me/
-//tnx.nl/ip
 //ipecho.net/plain
 //whatismyip.akamai.com/
 //wgetip.com/
